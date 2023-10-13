@@ -1,0 +1,42 @@
+.name { 
+
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+}
+
+.description { 
+    width: 75%;
+    float: right;
+    font-family: arial;
+
+}
+.div0 { 
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    background-color: cadetblue;
+}
+
+.div1 {
+    width: 45%;
+    float: left;
+    font-family: arial;
+    font-size: small;
+}
+
+.div2 { 
+    width: 45%;
+    float: right;
+    font-family: arial;
+    font-size: small;
+}
+
+.div3 {
+    width: 70%;
+    float: right;
+    font-family: arial;
+    font-size: medium;
+}
+
+
